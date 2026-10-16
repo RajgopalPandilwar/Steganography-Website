@@ -3,7 +3,6 @@ Steganography Tool — Hide and extract secret messages within images.
 Uses LSB (Least Significant Bit) steganography to embed text into image pixels.
 
 Author: Rajgopal Pandilwar
-Based on original work by Vatshayan.
 """
 
 from PIL import Image
