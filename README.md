@@ -7,9 +7,6 @@ Hiding secret messages within ordinary data (images, audio, video) and extractin
 **Rajgopal Pandilwar**
 
 ## Based On Original Work By
-
-This project is based on original work by **Vatshayan** — [Original Repository](https://github.com/Vatshayan/Steganography-Website-Project)
-
 ## What is Steganography?
 
 Steganography is the science of hiding information within innocuous carriers such that only the intended recipient knows of its existence. While cryptography makes data unreadable, steganography hides the very existence of the data.
